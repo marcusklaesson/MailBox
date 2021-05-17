@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MailBox</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="mailbox_app">MailBox App</string>
+    <string name="title">title</string>
+    <string name="subtitle">subtitle</string>
+    <string name="till">Till</string>
+    <string name="mne">Ämne</string>
+    <string name="skriv_ett_e_postmeddelande">Skriv ett e-postmeddelande</string>
+    <string name="tillbaka">Tillbaka</string>
+    <string name="skicka">Skicka</string>
+    <string name="Inbox_Fragment">Inbox Fragment</string>
+    <string name="New_Mail_Fragment">New Mail Fragment</string>
+    <string name="stäng">Stäng</string>
+    <string name="Du_måste_fylla_i_en_giltlig_mottagare">Du måste fylla i en giltlig mottagare!</string>
+    <string name="Ditt_mail_är_skickat">Ditt mail är skickat!</string>
+</resources>

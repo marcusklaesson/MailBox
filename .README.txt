@@ -1,0 +1,10 @@
+# MailBox
+Mailbox is an mail application that lets you send mail to an api and displays the sent mails.
+
+## Installation
+Unzip the .rar file and start it with Android Studios.
+
+
+## Author
+Marcus Klaesson
+marcusklaesson91@gmail.com
